@@ -1,0 +1,28 @@
+{
+
+  "TC_02":{
+
+    "FirstName": "Vishal",
+    "LastName": "K",
+    "Email": "somthing@smtg.com",
+    "Company": "EPAM",
+    "A": "FLDSMDFR"
+
+  },
+
+  "TC_01":{
+
+    "Gender": "Male",
+    "FirstName": "Raj",
+    "LastName": "Veera",
+    "Day": "03",
+    "Month": "August",
+    "Year": "1995",
+    "Email": "somtfghghfthng@smtg.com",
+    "Company": "EPAM",
+    "Password": "pass12345",
+    "CnfPassword": "pass12345"
+
+  }
+
+}
